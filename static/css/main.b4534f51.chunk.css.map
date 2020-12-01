@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,WACI,wBAAyB,CACzB,UAAY,CACZ,eAAiB,CACjB,iBACJ,CACA,OACI,eAEJ","file":"main.b4534f51.chunk.css","sourcesContent":[".jumbotron{\r\n    background-color: #FD7272;\r\n    color: #ffff;\r\n    padding: 100px, 0;\r\n    text-align: center;\r\n}\r\n.bicon{\r\n    font-size: 100px;\r\n\r\n}"]}
